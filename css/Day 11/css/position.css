@@ -1,0 +1,11 @@
+h1 {
+    color: lightseagreen;
+    background-color: white;
+    text-align: center;
+}
+
+body {
+    background-image: url(../image/Bk.jpg);
+    background-repeat: no-repeat;
+}
+

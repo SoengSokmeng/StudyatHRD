@@ -1,0 +1,27 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.red {
+    background-color: lightcoral;
+}
+
+p {
+    text-align: center;
+}
