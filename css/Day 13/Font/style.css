@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "KhmerMuol";
+  src: url("./fonts/KhmerMuol.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/KhmerMuol.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/KhmerMuol.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/KhmerMuol.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/KhmerMuol.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/KhmerMuol.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/KhmerMuol.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
